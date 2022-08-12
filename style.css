@@ -1,0 +1,39 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+a {
+    color: darkslateblue;
+    font-size: 50px;
+   
+    
+}
+
+.navigation {
+    list-style: none
+}
+
+body {
+    background-color: rgb(170, 147, 207);
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(126, 21, 224);
+    background-color: rebeccapurple;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(126, 21, 224);
+}
+
+p, ul, ol{
+    font-size: 20px;
+}
